@@ -1,0 +1,9 @@
+{
+    "name": "kirill/kirill",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
